@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Online Book
++ [xxx](https://www6v.github.io/www6vAIGC/)
++ [LLM 算法](https://www6v.github.io/www6vAlgo/)
++ [MLSys](https://www6v.github.io/www6vMLSys/)
++ [Vision](https://www6v.github.io/www6vVision/)
