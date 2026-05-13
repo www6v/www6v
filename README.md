@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Product
-[NoteWorks-Open NotebookLM](http://www.notebooklm.studio)
++ [NoteWorks-Open NotebookLM](http://www.notebooklm.studio)
 
 ### Online Book
 + [基于LLM的系统设计与实现](https://www6v.github.io/www6vAIGC/)
