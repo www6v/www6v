@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 + [MLSys](https://www6v.github.io/www6vMLSys/)
 + [视觉理解生成](https://www6v.github.io/www6vVision/)
 
-### How to reach me:
+### Home Page:
 [主页](https://www6v.github.io/www6vPage/)
