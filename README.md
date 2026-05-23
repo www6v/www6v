@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 + [视觉理解生成](https://www6v.github.io/www6vVision/)
 
 ### Home Page
-[主页](https://www6v.github.io/www6vPage/)
++ [主页](https://www6v.github.io/www6vPage/)
