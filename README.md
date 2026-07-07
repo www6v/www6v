@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Product
-+ [NoteWorks-Open NotebookLM](http://www.notebooklm.studio)
++ [Open NotebookLM](http://www.notebooklm.studio)
++ [Open Claude Managed Agent](http://124.221.28.203:8787/)
 
 ### Online Book
 + [基于LLM的系统设计与实现](https://www6v.github.io/www6vAIGC/)
