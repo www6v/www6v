@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Product
 + [Open NotebookLM](http://www.notebooklm.studio)
-+ [Open Claude Managed Agent](http://124.221.28.203:8787/)
++ [Open Claude Managed Agent](http://43.172.71.230:8787)
 
 ### Online Book
 + [基于LLM的系统设计与实现](https://www6v.github.io/www6vAIGC/)
