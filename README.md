@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ### Home Page
 + ex @jd.com  @vip.com
-+ [主页](https://www6v.github.io/www6vPage/)
++ [Home Page](https://www6v.github.io/www6vPage/)
