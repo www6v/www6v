@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 + [Open Claude Managed Agent](http://43.172.71.230:8787)
 
 ### Online Book
-+ [Morden Agent](https://www6v.github.io/www6vAIGC/)
++ [Modern Agent](https://www6v.github.io/www6vAIGC/)
 + [LLM 算法](https://www6v.github.io/www6vAlgo/)
 + [MLSys](https://www6v.github.io/www6vMLSys/)
 + [视觉理解生成](https://www6v.github.io/www6vVision/)
