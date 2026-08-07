@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### Online Book
 + [Modern Agent](https://www6v.github.io/www6vAIGC/)
-+ [LLM 算法](https://www6v.github.io/www6vAlgo/)
++ [LLM Algorithm](https://www6v.github.io/www6vAlgo/)
 + [MLSys](https://www6v.github.io/www6vMLSys/)
-+ [视觉理解生成](https://www6v.github.io/www6vVision/)
++ [Visual Understanding & Generation](https://www6v.github.io/www6vVision/)
 
 ### Home Page
 + ex @jd.com  @vip.com
