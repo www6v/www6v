@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Home Page
++ ex @jd.com  @vip.com
++ [Home Page](https://www6v.github.io/www6vPage/)
+
 
 ### Product
 + [Open NotebookLM](http://www.notebooklm.studio)
@@ -25,6 +29,3 @@ Here are some ideas to get you started:
 + [MLSys](https://www6v.github.io/www6vMLSys/)
 + [Visual Understanding & Generation](https://www6v.github.io/www6vVision/)
 
-### Home Page
-+ ex @jd.com  @vip.com
-+ [Home Page](https://www6v.github.io/www6vPage/)
