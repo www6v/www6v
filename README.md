@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Product
 + [Open NotebookLM](http://www.notebooklm.studio)
-+ [Open Claude Managed Agent](http://managed-agent.cloud:8787)
++ [Open Claude Managed Agent](http://www.managed-agent.cloud:8787)
 
 ### Online Book
 + [Modern Agent](https://www6v.github.io/www6vAIGC/)
