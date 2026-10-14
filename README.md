@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Product
 + [Open NotebookLM](http://www.notebooklm.studio)
-+ [Open Claude Managed Agent](http://www.managed-agent.cloud:8787)
++ [Open Claude Managed Agent](http://www.managed-agent.cloud:8787)   [github](https://github.com/www6v/meta-harness)
 
 ### Online Book
 + [Modern Agent](https://www6v.github.io/www6vAIGC/)
