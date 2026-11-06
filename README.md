@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 + [pipy-subagent](https://github.com/www6v/pipy-subagent)
 + [piPy-dynamic-workflows](https://github.com/www6v/piPy-dynamic-workflows)
 + [OpenHarness-rust](https://github.com/www6v/OpenHarness-rust)
++ [awesome-harness](https://github.com/www6v/awesome-harness)
