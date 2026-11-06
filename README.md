@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 + [piPy-teams](https://github.com/www6v/piPy-teams)
 + [pipy-subagent](https://github.com/www6v/pipy-subagent)
 + [piPy-dynamic-workflows](https://github.com/www6v/piPy-dynamic-workflows)
++ [OpenHarness-rust](https://github.com/www6v/OpenHarness-rust)
